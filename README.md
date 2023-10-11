@@ -1,1 +1,1 @@
-# Repo para git pull
+# Repo para git fetch
